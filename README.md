@@ -2,6 +2,7 @@
 A list of resources for practising coding and competing in programming competitions.
 
 ## Practicing
+* [Codecademy](https://www.codecademy.com/)
 * [HackerRank](https://www.hackerrank.com) \*
 * [Kattis](https://open.kattis.com/) \*
 * [CodinGame](https://www.codingame.com/)
